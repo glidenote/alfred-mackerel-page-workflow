@@ -1,4 +1,4 @@
-# alfred-mackerel-open-page-workflow
+# alfred-mackerel-page-workflow
 
 ## これは何?
 
