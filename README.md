@@ -6,6 +6,12 @@
 
 ![](images/alfred-mackerel-page-workflow-animation.gif)
 
+## インストール方法
+
+下記URLから`Mackerel.Page.Workflow.alfredworkflow` をダウンロードし、Alfredにインストールしてください。
+
+ * https://github.com/glidenote/alfred-mackerel-page-workflow/releases
+
 ## APIキーとオーガニゼーションの設定
 
 `cisetapi` を実行すると、設定ファイルが開くので、
