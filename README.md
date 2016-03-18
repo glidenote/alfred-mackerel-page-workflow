@@ -14,7 +14,7 @@
 
 ## APIキーとオーガニゼーションの設定
 
-`cisetapi` を実行すると、テキストエディットが設定ファイルを開くので、
+`mcapiset` を実行すると、テキストエディットが設定ファイルを開くので、
 
  * APIキー (読み取り権限)
  * オーガニゼーション
@@ -46,3 +46,9 @@
 `mcd {dashboard}` を実行すると、該当Dashboardページを開きます。
 
 ![](images/alfred-mackerel-page-workflow03.png)
+
+## Serviceページを開く
+
+`mcs {service}` を実行すると、該当Serviceページを開きます。
+
+![](images/alfred-mackerel-page-workflow04.png)
