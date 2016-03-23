@@ -6,6 +6,7 @@ load 'config.rb'
 %w(
   hosts
   dashboards
+  services
 ).each do |path|
   endpoint         = "https://mackerel.io/api/v0/#{path}"
   uri              = URI.parse("#{endpoint}")
