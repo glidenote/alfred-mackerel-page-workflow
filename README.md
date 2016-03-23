@@ -2,7 +2,13 @@
 
 ## これは何?
 
- * [Mackerel](https://mackerel.io/) でHost、Dashboardのページを簡単に開くことが出来るAlfred Workflowです
+[Mackerel](https://mackerel.io/) で
+
+  * Host
+  * Dashboard
+  * Service
+
+のページを簡単に開くことが出来るAlfred Workflowです
 
 ![](images/alfred-mackerel-page-workflow-animation.gif)
 
