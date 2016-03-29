@@ -177,7 +177,7 @@
 				<key>subtext</key>
 				<string>Run this to fetch latest changes from your mackerel api account</string>
 				<key>text</key>
-				<string>Update Mackerel Page URLls Cache</string>
+				<string>Update Mackerel Page URLs Cache</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
