@@ -80,7 +80,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Mackerel Page Workflow v1.0</string>
+	<string>Mackerel Page Workflow v1.1</string>
 	<key>objects</key>
 	<array>
 		<dict>
