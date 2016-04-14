@@ -26,10 +26,17 @@ result.each_value do |v|
 
     roles = []
     i['roles'].each{|s,r| r.each{|q| roles << "#{s}:#{q}"}}
-    urls["#{hostname}"] = {
+
+    params = {
       url:    "https://mackerel.io/orgs/#{@organization}/hosts/#{id}",
       roles:  roles,
     }
+    
+    urls["#{hostname}"] = params
+
+    if i.key?("displayName")
+      urls["#{i['displayName']}"] = params
+    end
   end
 end
 
